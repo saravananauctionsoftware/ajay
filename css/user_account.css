@@ -1,0 +1,185 @@
+#cat_sub, #timezone_div, #currency_div{
+  padding: 0px 0px 20px 0px;
+}
+
+#cat_sub {
+  margin-top: -15px;
+}
+
+#timezone_div, #currency_div {
+  margin-top: -20px;
+}
+
+#timezone_div .pt-22{
+  padding-top: 22px;
+}
+
+.prefer-td1 {
+  padding: 9px;
+  padding-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.prefer-td1 .div-hide {
+  display: none;
+}
+.prefer-td1 .div-hide span {
+  float: right;
+  font-family: Arial;
+  font-size: 13px;
+  padding-top: 5px;
+}
+.prefer-td1 .div-hide span input {
+  font-family: Arial;
+}
+
+.inner-table-div {
+  padding-bottom: 3px;
+  margin-top: -15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-color-black {
+  padding-top: 16px;
+  margin-top: -15px;
+  color: 666666;
+}
+
+#timezone_div .curn_save1 strong, #currency_div .div-p20 .div-pb3 strong, .prefer-td1 .emp_div strong, #contractor_profile .contract-table-td strong {
+  color: #666666;
+}
+
+.curn_save1 .color-9 {
+  color: #999999;
+}
+
+#currency_div .div-p20 {
+  padding: 20px 0;
+}
+#currency_div .div-p20 .div-b12 {
+  padding-bottom: 12px;
+  color: #666666;
+}
+#currency_div .div-p20 .div-b12 strong {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #666666;
+}
+#currency_div .div-p20 .div-pb3 {
+  padding-bottom: 3px;
+}
+
+h3.orange {
+  padding-left: 10px;
+}
+
+.row.div-pt10-pb10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.user_right1 .div-pl40 {
+  padding-left: 40px;
+}
+
+.user_right1 .div-pl40 .div-pt20 {
+  padding-top: 20px;
+}
+
+div.orangebutton3 {
+  overflow: hidden;
+  height: 32px;
+}
+
+div.orangebutton3 a img:hover {
+  margin-top: -27px;
+}
+
+.youcal {
+  font-size: 10px!important;
+  color: #666666;
+}
+
+.user_ppedit .inner-div1 {
+  color: #fe5a01;
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 2px;
+  font-family: 'GothamMedium' !important;
+}
+
+.user_ppedit .inner-div2 {
+  color: black;
+  font-size: 12px;
+}
+
+.user_ppedit .inner-div3 {
+  color: red;
+  font-size: 10px;
+  padding-bottom: 5px;
+}
+
+#image_submit_id table td.td-pr30 {
+  padding-right: 30px;
+}
+
+#image_submit_id table td .black-span {
+  color: black;
+}
+
+.youcal.black-span .black-innerspan1 {
+  font-size: 10x;
+  color: #F00;
+}
+
+.youcal.black-span .black-innerspan2 {
+  font-size: 10x;
+  color: #00F;
+}
+
+.btn.btn-warning.save.upload_profile_pic, span a.btn.btn-default.cancel {
+  width: 80px;
+}
+
+div.full-width-div {
+  width: 100%;
+}
+
+div.div-pb20 {
+  padding-bottom: 20px;
+}
+
+#skills .parsley-required {
+  margin-left: 14px;
+  margin-top: 41px;
+  color: red;
+}
+
+#get_memberhsip {
+  display: none;
+}
+
+.user_right1 p.gotham_medium {
+  color: rgb(79, 79, 79);
+  font-size: 10px;
+}
+
+.user_ppedit .edit_plbl2 {
+  color: red;
+  font-size: 10px;
+  padding-bottom: 0px;
+  padding-top: 5px;
+  padding-left: 14px;
+}
+
+#contractor_profile .contract-table-td.td {
+  padding-top: 10px;
+}
+
+#ceritification {
+  display: none;
+}
+#contractor_profile .contract-table-td.pt20 {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
